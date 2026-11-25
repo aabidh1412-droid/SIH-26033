@@ -76,6 +76,7 @@ The uniqueness of FarmBridge AI lies in combining digital trading, artificial in
 | Google Maps API | Route optimization |
 | Payment Gateway | Secure digital payments |
 | Cloud Hosting | Platform deployment |
+<img width="925" height="637" alt="web" src="https://github.com/user-attachments/assets/ad6aa7e5-1cce-46c9-95c1-5819b5e97252" />
 
 ## 2. Methodology and Process for Implementation
 
